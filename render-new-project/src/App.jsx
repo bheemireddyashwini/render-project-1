@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <p>hello</p></div>
+        <p>hello hello</p></div>
     </>
   )
 }
